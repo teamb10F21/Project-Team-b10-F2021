@@ -8,9 +8,6 @@ btnPaleoSelect.onclick=function(){
 }
 
 
-btnKetoSelect.onclick=function(){
-  ChangeForm(keto)
-}
 
 
 btnVegetarianSelect.onclick=function(){
@@ -37,7 +34,11 @@ btnPescetarianSelect.onclick=function(){
   ChangeForm(pescetarian)
 }
 
+btnKetoSelect.onclick=function(){
+  ChangeForm(keto)
+}
 
+/*
 hmbrSelectDiet.onshow=function(s){
 if (typeof(s) == "object") {
   return
@@ -56,3 +57,4 @@ case "log in"
   ChangeForm(logIn)
   break
 }
+*/
