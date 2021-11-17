@@ -23,16 +23,7 @@
           "!type": "External",
           "file": [
             "forms",
-            "diets",
-            "diets.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "atkins",
-            "atkins.json"
+
           ]
         }
       ],
@@ -55,7 +46,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "diets",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
