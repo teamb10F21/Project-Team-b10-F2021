@@ -34,6 +34,10 @@ btnPescetarianSelect.onclick=function(){
   ChangeForm(pescetarian)
 }
 
+btnKetoSelect.onclick=function(){
+  ChangeForm(keto)
+}
+
 /*
 hmbrSelectDiet.onshow=function(s){
 if (typeof(s) == "object") {
@@ -54,7 +58,3 @@ case "log in"
   break
 }
 */
-
-btnKetoSelect.onclick=function(){
-  ChangeForm(keto)
-}
